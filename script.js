@@ -1,1 +1,1 @@
-alert("Vloger")
+alert("Subscribe Now")
